@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cmath>
 
-//baekjoon number 1016 sol
+//baekjoon number 1016 solution
 
 using namespace std;
 
